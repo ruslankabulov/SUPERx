@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="superx_code_title">Protection code</string>
+    <string name="superx_code_info">A 6-digit code protects the edit and share buttons. Without a code, the buttons stay open. If you forget the code, you must clear the app data.</string>
+    <string name="superx_code_current">Current code</string>
+    <string name="superx_code_new">New code (6 digits)</string>
+    <string name="superx_code_wrong">Wrong code</string>
+    <string name="superx_code_wrong_current">Current code is wrong</string>
+    <string name="superx_code_must_6">New code must be 6 digits</string>
+    <string name="superx_code_remove_need_current">Enter the current code to remove it</string>
+    <string name="superx_code_enter_title">Enter code</string>
+    <string name="superx_code_remove">Remove code</string>
+</resources>
