@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,ExtraTranslation">
+    <string name="logcat_clear">Temizle</string>
+    <string name="logcat_share">Günlüğü paylaş</string>
+    <string name="title_service_restart">Hizmeti yeniden başlat</string>
+    <string name="title_del_all_config">Yapılandırmaları sil</string>
+    <string name="title_del_duplicate_config">Yinelenen yapılandırmaları sil</string>
+    <string name="title_del_invalid_config">Geçersiz yapılandırmaları sil</string>
+    <string name="title_export_all">Yapılandırmaları panoya aktar</string>
+    <string name="title_sub_setting">Abonelikler</string>
+    <string name="sub_setting_remarks">Açıklamalar</string>
+    <string name="sub_setting_url">İsteğe bağlı URL</string>
+    <string name="sub_setting_request_headers">İstek başlıkları (JSON biçimi)</string>
+    <string name="sub_setting_filter">Açıklama filtresi (düzenli ifade)</string>
+    <string name="sub_setting_enable">Güncellemeyi etkinleştir</string>
+    <string name="sub_auto_update">Otomatik güncellemeyi etkinleştir</string>
+    <string name="sub_allow_insecure_url">Güvenli olmayan HTTP adresine izin ver</string>
+    <string name="sub_setting_pre_profile">Giriş proxy\'si</string>
+    <string name="sub_setting_next_profile">Çıkış proxy\'si</string>
+    <string name="sub_setting_pre_profile_tip">Yapılandırma açıklamalarının mevcut ve benzersiz olduğundan emin olun</string>
+    <string name="sub_setting_entry_proxy_tip">Seçilen proxy, bu aboneliktaki her profilin önüne, o profilin proxy zincirinde giriş halkası olarak eklenir.</string>
+    <string name="sub_setting_exit_proxy_tip">Seçilen proxy, bu aboneliktaki her profilin sonuna, o profilin proxy zincirinde çıkış halkası olarak eklenir.</string>
+    <string name="toast_invalid_update_interval">Geçersiz güncelleme aralığı. Minimum 15 dakikadır.</string>
+    <string name="title_sub_update">Aboneliği güncelle</string>
+    <string name="title_ping_all_server">TCP gecikmelerini test et (TCPing)</string>
+    <string name="title_real_ping_all_server">Gerçek gecikmeleri test et</string>
+    <string name="title_user_asset_setting">Varlık dosyaları</string>
+    <string name="title_sort_by_test_results">Test sonuçlarına göre sırala</string>
+    <string name="title_filter_config">Yapılandırmaları filtrele</string>
+    <string name="filter_config_all">Tümü</string>
+    <string name="summary_scan_qrcode">Kamerayı açıp taramak için ekrana dokunun</string>
+    <string name="title_del_duplicate_config_count">%d yinelenen yapılandırmayı sil</string>
+    <string name="title_del_config_count">%d yapılandırmayı sil</string>
+    <string name="title_import_config_count">%d yapılandırmayı içe aktar</string>
+    <string name="title_export_config_count">%d yapılandırmayı dışa aktar</string>
+    <string name="title_update_subscription_result">%1$d yapılandırma güncellendi (%2$d başarılı, %3$d başarısız, %4$d atlandı)</string>
+    <string name="title_update_subscription_no_subscription">Abonelik yok</string>
+    <string name="toast_server_not_found_in_group">Seçilen sunucu mevcut grupta bulunamadı</string>
+    <string name="title_locate_selected_config">Seçilen yapılandırmayı bul</string>
+    <string name="tasker_start_service">Hizmeti başlat</string>
+    <string name="tasker_setting_confirm">Onayla</string>
+    <string name="routing_settings_domain_strategy">Alan adı stratejisi</string>
+    <string name="routing_settings_title">Yönlendirme ayarları</string>
+    <string name="routing_settings_tips">Bir kural yalnızca yapılandırılmış tüm eşleşme koşulları sağlandığında (VE) uygulanır. Kurallar yukarıdan aşağıya kontrol edilir; ilk eşleşen kural uygulanır.</string>
+    <string name="routing_settings_comma_tip">Birden fazla girişi virgülle (,) ayırın.</string>
+    <string name="routing_settings_save">Kaydet</string>
+    <string name="routing_settings_delete">Temizle</string>
+    <string name="routing_settings_rule_title">Yönlendirme kuralı ayarları</string>
+    <string name="routing_settings_add_rule">Kural ekle</string>
+    <string name="routing_settings_import_predefined_rulesets">Önceden tanımlı kural kümelerini içe aktar</string>
+    <string name="routing_settings_import_rulesets_tip">Mevcut kural kümeleri silinecek. Devam edilsin mi?</string>
+    <string name="routing_settings_import_rulesets_from_clipboard">Kural kümesini panodan içe aktar</string>
+    <string name="routing_settings_import_rulesets_from_qrcode">Kural kümesini QR kodundan içe aktar</string>
+    <string name="routing_settings_export_rulesets_to_clipboard">Kural kümesini panoya aktar</string>
+    <string name="routing_preset_global">Genel</string>
+    <string name="routing_preset_iran_whitelist">İran beyaz listesi</string>
+    <string name="routing_preset_russia_whitelist">Rusya beyaz listesi</string>
+    <string name="backup_location_local">Yerel</string>
+    <string name="acc_refresh">Günlüğü yenile</string>
+    <string name="toast_permission_denied_for">%1$s izni reddedildi</string>
+    <string name="acc_add_subscription">Abonelik ekle</string>
+    <string name="toast_malformed_json_detail">Geçersiz yapılandırma: %1$s</string>
+    <string name="acc_add_asset">Varlık kaynağı ekle</string>
+    <string name="acc_download_file">Varlık dosyalarını indir</string>
+    <string name="acc_qr_code">QR kodu</string>
+    <string name="acc_copy_log">Günlüğü kopyala</string>
+    <string name="acc_clear_log">Günlüğü temizle</string>
+    <string name="acc_add_rule">Yönlendirme kuralı ekle</string>
+    <string name="acc_start">Hizmeti başlat</string>
+    <string name="acc_stop">Hizmeti durdur</string>
+    <string name="acc_back">Geri</string>
+    <string name="acc_search">Ara</string>
+    <string name="acc_add">Yapılandırma ekle</string>
+    <string name="acc_more">Daha fazla seçenek</string>
+    <string name="acc_selected_server">Seçili</string>
+    <string name="acc_share_subscription">Abonelik bağlantısını paylaş</string>
+    <string name="acc_share_log">Günlüğü paylaş</string>
+    <string name="acc_remove">Proxy zinciri üyesini kaldır</string>
+    <string name="acc_add_member">Proxy zincirine üye ekle</string>
+    <string name="acc_start_scanner">QR tarayıcıyı başlat</string>
+    <string name="acc_stop_scanner">QR tarayıcıyı durdur</string>
+    <string name="acc_turn_torch_on">El fenerini aç</string>
+    <string name="acc_turn_torch_off">El fenerini kapat</string>
+    <string name="acc_select_image">Taranacak görseli seçin</string>
+    <string name="acc_locked">Bu kural, ön ayarlar içe aktarılırken korunur</string>
+    <string name="acc_open_menu">Gezinme menüsünü aç</string>
+    <string name="acc_edit">Düzenle</string>
+    <string name="acc_delete">Sil</string>
+    <string name="acc_save">Kaydet</string>
+    <string name="acc_update_subscriptions">Abonelikleri güncelle</string>
+    <string name="acc_per_app_proxy_information">Uygulama bazlı proxy bilgisi</string>
+    <string name="permission_camera">Kamera</string>
+    <string name="permission_notification">Bildirim</string>
+    <string name="permission_local_network">Yerel ağ</string>
+    <string name="subscription_update_updating">Abonelik güncelleniyor: %1$s</string>
+    <string name="subscription_update_progress">%2$s test ediliyor: %1$s</string>
+    <string name="tasker_blurb_start">%1$s başlat</string>
+    <string name="tasker_blurb_stop">%1$s durdur</string>
+    <string name="connection_test_empty_message">ayrıntı yok</string>
+    <string name="value_unknown">bilinmiyor</string>
+    <string name="sub_info_open_support">Destek bağlantısını aç</string>
+    <string name="sub_info_open_page">Abonelik sayfasını aç</string>
+    <string name="sub_info_unlimited">Sınırsız</string>
+    <string name="superx_code_title">Koruma kodu</string>
+    <string name="superx_code_info">6 haneli kod, düzenle ve paylaş düğmelerini korur. Kod koymazsan düğmeler serbest kalır. Kodu unutursan uygulama verilerini silmen gerekir.</string>
+    <string name="superx_code_current">Mevcut kod</string>
+    <string name="superx_code_new">Yeni kod (6 hane)</string>
+    <string name="superx_code_wrong">Kod yanlış</string>
+    <string name="superx_code_wrong_current">Mevcut kod yanlış</string>
+    <string name="superx_code_must_6">Yeni kod 6 rakam olmalı</string>
+    <string name="superx_code_remove_need_current">Kodu kaldırmak için mevcut kodu yazın</string>
+    <string name="superx_code_enter_title">Kodu girin</string>
+    <string name="superx_code_remove">Kodu kaldır</string>
+    <string-array name="mux_xudp_quic_entries">
+        <item>reddet</item>
+        <item>izin ver</item>
+        <item>atla</item>
+    </string-array>
+    <string-array name="vpn_bypass_lan">
+        <item>Yapılandırmayı izle</item>
+        <item>Bypass</item>
+        <item>Bypass değil</item>
+    </string-array>
+    <string-array name="outbound_domain_resolve_method">
+        <item>Çözümleme</item>
+        <item>Çöz ve DNS Hosts\'a ekle</item>
+        <item>Çöz ve alan adını değiştir</item>
+    </string-array>
+    <string-array name="policy_group_type">
+        <item>En düşük ping</item>
+        <item>En düşük yük</item>
+        <item>Rastgele</item>
+        <item>Döngüsel (Round Robin)</item>
+    </string-array>
+    <plurals name="title_update_config_count">
+        <item quantity="one">%1$d yapılandırma güncellendi</item>
+        <item quantity="other">%1$d yapılandırma güncellendi</item>
+    </plurals>
+    <plurals name="title_update_asset_count">
+        <item quantity="one">%1$d varlık dosyası güncellendi</item>
+        <item quantity="other">%1$d varlık dosyası güncellendi</item>
+    </plurals>
+</resources>
+      
